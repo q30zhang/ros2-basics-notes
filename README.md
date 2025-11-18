@@ -1,2 +1,1 @@
-# ros2-basics-notes
- 
+# Notes for learning basic ros2 for robot car
